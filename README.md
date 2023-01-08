@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...c++ ,python and data strucutres
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...
-gmail:pavanrahul46@gmail.com
+gmail:pavanrahul96@gmail.com
 discord:Pavan Rahul#9034
 
 <!---
