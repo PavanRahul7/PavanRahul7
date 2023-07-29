@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning ...c++ ,python and data strucutres
 - 💞️ I’m looking to collaborate on ...any project
-- 📫 How to reach me ...
+- 📫 How to reach me 
+
 gmail:pavanrahul96@gmail.com
 discord:Pavan Rahul#9034
 
