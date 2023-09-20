@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Pavan Rahul Konathala</h1>
-<h3 align="center">Aspiring Data Analyst and Data Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+### Hi there 👋, I am Pavan Rahul Konathala
+#### Aspiring Data Analyst and Data Engineer 
+![Aspiring Data Analyst and Data Engineer ](https://www.hays.com.sg/documents/6089701/6432330/Image_Tech_Job_Data_Analyst_Science_LandingPage+%281%29.jpg/6afe5913-b336-399b-0a18-00f8a8bd9f65?t=1647586824332)
 
+I enjoy digging through data to discover new facts, doing analyses, and creating amazing visualizations. Also understanding Hadoop and ETL processes, as well as learning  data engineering concepts.
 
-- 📫 How to reach me **pavanrahul96@gmail.com**
+Skills: SQL | Python | R | Tableau | Excel | AWS | GCP | Hadoop 
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLQTbM3H2Mix3AZvbzMyCwHfA9On59KQpU_OayPt_KICmU0BkKwZfI0oSkSJUd2lkKJI&usqp=CAU">
+- 🌱 I’m currently learning Hadoop 
+- 😄 Pronouns: He/him 
+- ⚡ Fun fact: Data Driven 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,9 +18,8 @@
 <a href="https://kaggle.com/https://www.kaggle.com/pavanrahulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pavanrahulk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanRahul7)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanrahul7&show_icons=true&locale=en&layout=compact" alt="pavanrahul7" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanRahul7&show_icons=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanrahul7&show_icons=true&locale=en" alt="pavanrahul7" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PavanRahul7)  
