@@ -18,8 +18,3 @@ Skills: SQL | Python | R | Tableau | Excel | AWS | GCP | Hadoop
 <a href="https://kaggle.com/https://www.kaggle.com/pavanrahulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pavanrahulk" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanRahul7)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanRahul7&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PavanRahul7)  
