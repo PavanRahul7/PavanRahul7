@@ -11,10 +11,3 @@ Skills: SQL | Python | R | Tableau | Excel | AWS | GCP | Hadoop
 - ⚡ Fun fact: Data Driven 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-rahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-rahul/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20177268/pavan-rahul-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20177268/pavan-rahul-k" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pavanrahulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pavanrahulk" height="30" width="40" /></a>
-</p>
-
